@@ -1,0 +1,16 @@
+
+h1 {
+	color: black;
+	font-family: Chalkduster, fantasy;
+	font-size: 5rem;
+} 
+
+.custom-brand {
+	font-family: Chalkduster, fantasy;	
+}
+
+body {
+	
+	background: url("../img/background.jpg") no-repeat center center fixed;
+	background-size: cover; 
+}
